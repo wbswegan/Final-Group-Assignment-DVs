@@ -118,5 +118,7 @@ Savings vs spending, based on **gross** income:
 Interpretation: a value of `0.25` means **you save \$0.25 for every \$1 you spend** (before tax).
 
 ### 3.7 Savings_to_Spending_Ratio_Net
+...
+### 4 UI display and URL
+The dashboard link is shown as follow: https://public.tableau.com/app/profile/lai.bao/viz/CostofLivingAnalysis_17639960856360/Dashboard1                             <img width="1285" height="722" alt="image" src="https://github.com/user-attachments/assets/7344667e-e2d3-4d6a-aaa1-2f8523ff85cc" />
 
-Savings
